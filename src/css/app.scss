@@ -1,0 +1,7 @@
+// app global css in SCSS form
+@import url('https://fonts.googleapis.com/css?family=Dosis|Merriweather&display=swap');
+
+html, body, #q-app, .q-layout, .q-page-container, .q-page {
+  width: 100%;
+  height: 100%;
+}
